@@ -1,0 +1,21 @@
+{
+  "name": "event-emitter",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "buidling node event emitter from scratch",
+  "main": "eventEmitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarsh-shahi/event-emitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adarsh-shahi/event-emitter/issues"
+  },
+  "homepage": "https://github.com/adarsh-shahi/event-emitter#readme"
+}
